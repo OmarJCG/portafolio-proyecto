@@ -155,7 +155,9 @@ body.dark-theme {
 }
 
 /*=============== HEADER & NAV ===============*/
-
+.header{
+  width:100%;
+}
 
 /* Show menu */
 
