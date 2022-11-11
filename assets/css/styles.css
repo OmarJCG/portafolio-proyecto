@@ -430,6 +430,9 @@ body.dark-theme {
   60%{
     transform: translateY(-3px);
   }
+  80%{
+    transform: translate(0);
+  }
 }
 
 
