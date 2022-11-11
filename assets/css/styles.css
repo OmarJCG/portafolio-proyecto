@@ -416,6 +416,7 @@ body.dark-theme {
   animation: bounce-skills .6s;
 }
 
+/* Animation skills */
 @keyframes bounce-skills{
   0%{
     transform: translate(0);
@@ -431,7 +432,7 @@ body.dark-theme {
   }
 
 }
-/* Animation skills */
+
 
 
 /*=============== QUALIFICATION ===============*/
